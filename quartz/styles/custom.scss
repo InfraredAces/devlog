@@ -1,3 +1,6 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+ul.overflow {
+    max-height: 80vh;
+}
